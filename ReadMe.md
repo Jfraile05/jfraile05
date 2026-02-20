@@ -7,13 +7,15 @@ I serve as DevOps Project Manager for the AWS Cloud Club and Communications Assi
 My interests include building scalable cloud systems, automation, infrastructure, and applying AWS services to real-world applications.
 
 ---
-
 # Tech Stack
 
-Cloud:
-AWS (S3, Cognito, Lambda, EC2)
+Cloud & Infrastructure:
+AWS (S3, Cognito, Lambda, EC2, IAM)  
+Linux (Ubuntu)  
+Windows Server  
+Active Directory  
 
-Languages:
+Programming & Scripting:
 Python  
 Java  
 C++  
@@ -21,26 +23,25 @@ SQL
 Bash  
 JavaScript  
 
-Systems:
-Linux  
-Ubuntu  
-Windows  
-Active Directory  
-
-Development:
+Frontend & Development:
 React  
 Node.js  
-Git  
-GitHub  
+Vite  
 
 Databases:
 MySQL  
 SQLite  
-DynamoDB  
+Amazon DynamoDB  
 
-Tools:
+DevOps & Version Control:
+Git  
+GitHub  
+
+Enterprise IT & Operations:
 ServiceNow  
 SCCM  
+System Administration  
+Endpoint Management  
 
 ---
 
