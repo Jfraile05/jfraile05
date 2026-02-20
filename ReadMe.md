@@ -1,18 +1,75 @@
-# 💫 About Me:
-Computer Science student at Florida State University with a strong interest in cloud computing, DevOps, and IT infrastructure. I currently work as an Undergraduate Systems Administrator, supporting Linux and Windows systems, troubleshooting technical issues, and helping maintain reliable campus computing environments.<br><br>On campus, I serve as a DevOps Project Manager for the AWS Cloud Club and as Communications Assistant for the ColorStack chapter, where I help organize technical projects and support student engagement. I enjoy building practical projects that apply real cloud and automation tools, including AI-powered and AWS-based applications.<br><br>My coursework focuses on systems, algorithms, databases, and software development, and I prioritize hands-on learning outside the classroom to strengthen real-world skills. Outside of academics, I maintain a disciplined and goal-driven lifestyle, focused on continuous improvement, technical growth, and preparing for a career in cloud and infrastructure engineering.
+# Jorge Fraile
 
+Computer Science student at Florida State University focused on Cloud Computing, DevOps, and IT Infrastructure. Currently working as an Undergraduate Systems Administrator supporting Linux and Windows environments, troubleshooting incidents, managing endpoints, and maintaining reliable system operations.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jorgefraile) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Jorgefrailee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-fraile) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jorge@jorgefraile.com) 
+I serve as DevOps Project Manager for the AWS Cloud Club and Communications Assistant for ColorStack at FSU, where I help lead cloud projects, coordinate teams, and support technical community growth.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jfraile05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jfraile05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jfraile05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My interests include building scalable cloud systems, automation, infrastructure, and applying AWS services to real-world applications.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jfraile05&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# Tech Stack
+
+Cloud:
+AWS (S3, Cognito, Lambda, EC2)
+
+Languages:
+Python  
+Java  
+C++  
+SQL  
+Bash  
+JavaScript  
+
+Systems:
+Linux  
+Ubuntu  
+Windows  
+Active Directory  
+
+Development:
+React  
+Node.js  
+Git  
+GitHub  
+
+Databases:
+MySQL  
+SQLite  
+DynamoDB  
+
+Tools:
+ServiceNow  
+SCCM  
+
+---
+
+# Projects
+
+AI Internship Matching Platform (AWS)
+
+• Built serverless architecture using AWS services  
+• Implemented secure file upload with S3 and Cognito  
+• Applied AI services to analyze and match resumes  
+
+DevOps Infrastructure Project
+
+• Provisioned AWS cloud resources  
+• Configured secure storage and authentication  
+• Implemented frontend upload integration  
+
+---
+
+# GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=jfraile05&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfraile05&layout=compact&theme=dark&hide_border=true)
+
+---
+
+# Connect
+
+LinkedIn: https://linkedin.com/in/jorge-fraile  
+Email: jorge@jorgefraile.com
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
