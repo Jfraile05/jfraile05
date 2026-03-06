@@ -54,11 +54,3 @@ My interests include cloud architecture, automation, distributed systems, and bu
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-%2300A1E0.svg?style=for-the-badge&logo=servicenow&logoColor=white)
 ![SCCM](https://img.shields.io/badge/SCCM-%230078D6.svg?style=for-the-badge&logo=microsoft&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=jfraile05&theme=dark&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jfraile05&layout=compact&theme=dark&hide_border=true)
