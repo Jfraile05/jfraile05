@@ -1,11 +1,6 @@
 # 💫 About Me
 
-Computer Science student at Florida State University (GPA 3.5 · Dean's List · Bright Futures Scholar) focused on Cloud Computing, DevOps, and IT Infrastructure. I work as an Undergraduate Systems Administrator managing 300+ node Linux and Windows environments, cutting downtime 25% and MTTR 30% through Python automation and observability tooling.
-
-As an **AWS Student Builder Campus Leader**, I run cloud workshops for 500+ students, publish technical content on distributed systems, and have driven 500+ AWS Builder Center registrations. I'm currently a **Software Engineer Intern at Drafted Labs**, building annotation infrastructure for RLHF and AI training pipelines. I also serve as DevOps Project Manager for the AWS Cloud Club at FSU.
-
-I build at the intersection of systems reliability, cloud engineering, and AI.
-
+CS junior at FSU pursuing a B.S. in Computer Science, focused on cloud infrastructure, DevOps, and systems engineering. By day I manage 300+ Linux and Windows nodes as an Undergraduate Systems Administrator, build RLHF and AI training pipeline infrastructure as a SWE Intern at Drafted Labs, and lead cloud education on campus as an AWS Student Builder Campus Leader. Also serving as DevOps PM for the FSU AWS Cloud Club and VP of ColorStack FSU. Always glad to connect.
 ---
 
 # 🌐 Connect With Me
