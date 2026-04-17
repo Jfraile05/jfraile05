@@ -1,6 +1,7 @@
 # 💫 About Me
 
 CS junior at FSU pursuing a B.S. in Computer Science, focused on cloud infrastructure, DevOps, and systems engineering. By day I manage 300+ Linux and Windows nodes as an Undergraduate Systems Administrator, build RLHF and AI training pipeline infrastructure as a SWE Intern at Drafted Labs, and lead cloud education on campus as an AWS Student Builder Campus Leader. Also serving as DevOps PM for the FSU AWS Cloud Club and VP of ColorStack FSU. Always glad to connect.
+
 ---
 
 # 🌐 Connect With Me
